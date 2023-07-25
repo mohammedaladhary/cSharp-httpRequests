@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code_TRA\httpRequest\bin\Debug\net6.0\httpRequest.exe
+C:\Users\TRA\Desktop\code_TRA\httpRequest\bin\Debug\net6.0\httpRequest.deps.json
+C:\Users\TRA\Desktop\code_TRA\httpRequest\bin\Debug\net6.0\httpRequest.runtimeconfig.json
+C:\Users\TRA\Desktop\code_TRA\httpRequest\bin\Debug\net6.0\httpRequest.dll
+C:\Users\TRA\Desktop\code_TRA\httpRequest\bin\Debug\net6.0\httpRequest.pdb
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.dll
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\refint\httpRequest.dll
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.pdb
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\httpRequest.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code_TRA\httpRequest\obj\Debug\net6.0\ref\httpRequest.dll
